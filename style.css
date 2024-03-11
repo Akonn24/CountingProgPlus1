@@ -1,0 +1,27 @@
+#countingLbl{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+}
+button{
+    display: inline-block;
+    font-size: 40px;
+    background-color: #f8c6e8;
+}
+body{
+    background-color: #FFE6E6;
+    min-width: 100vh;
+}
+
+h4{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: #223878;
+}
+
+#centering{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
